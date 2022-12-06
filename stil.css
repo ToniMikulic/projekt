@@ -1,0 +1,77 @@
+
+#body{
+    background-image:url(https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/03/1567494-1536x960.png) ;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(216, 136, 16);
+}
+#naslov{
+    font-size: 30px;
+    text-shadow: 1px 1px rgb(211, 195, 181);
+    padding: 10px;
+    text-align: center;
+}
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#color{
+    background-color: rgba(189, 171, 171, 0.514);
+}
+#image1{
+    padding: 10px;
+    padding-top: 20px;
+    width: 400;
+    border-width: 3px;
+    border-style:groove;
+    border-color: rgb(161, 94, 7);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+#image2{
+   
+        padding: 10px;
+        padding-top: 20px;
+        width: 400;
+        border-width: 3px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+}
+#image3{
+   
+    padding: 10px;
+    padding-top: 20px;
+    width: 70;
+    border-width: 3px;
+    border-style:groove;
+    border-color: rgb(161, 94, 7);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+ }
+
+#center {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+  }
+  #zivotopis1{
+    width: 130;
+    
+  }
+  #zivotopis2{
+    width: 150;
+    top: 30px;
+    border-style: groove;
+    
+  }
+  #text{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    padding: 10px;
+
+  }
